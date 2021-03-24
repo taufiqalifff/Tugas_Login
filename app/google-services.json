@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773713695665",
+    "project_id": "tugaslogin-7b820",
+    "storage_bucket": "tugaslogin-7b820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773713695665:android:b936a6fb8b23d7a4b3e390",
+        "android_client_info": {
+          "package_name": "com.example.tugas_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773713695665-m4v4je1m40a3mescq33ccmsvls7i110g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2J-Ltxn2gdxUQ_aVrcbZP94FYoiFljA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773713695665-m4v4je1m40a3mescq33ccmsvls7i110g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
